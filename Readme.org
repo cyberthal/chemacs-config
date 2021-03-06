@@ -1,0 +1,2 @@
+~/.chemacs/
+contains alternative Emacs installations
