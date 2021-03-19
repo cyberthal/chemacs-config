@@ -1,5 +1,5 @@
 (
- ("default" . ((user-emacs-directory . "~/.emacs.d/")
+ ("default" . ((user-emacs-directory . "~/.emacs.default/")
                (env . (("SPACEMACSDIR" . "~/.spacemacs.d/")))))
 
  ("dev" . ((user-emacs-directory . "~/.chemacs/Spacemacs/Dev/.emacs.d/")
