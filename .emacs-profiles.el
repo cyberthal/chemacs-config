@@ -6,9 +6,9 @@
            (env . (("SPACEMACSDIR" . "~/.chemacs/Spacemacs/Dev/.spacemacs.d/")))
            (server-name . "Spacemacs-Dev")))
 
- ("gnu" . ((user-emacs-directory . "~/.chemacs/Gnu/Main/.emacs.d/")
+ ("gnu" . ((user-emacs-directory . "~/.chemacs/Gnu/Master/.emacs.d/")
            (server-name . "Gnu-Main")))
 
- ("spac-syl-main" . ((user-emacs-directory . "~/.chemacs/Spacemacs/Syl20bnr/Main/.emacs.d/")
+ ("spac-syl-main" . ((user-emacs-directory . "~/.chemacs/Spacemacs/Syl20bnr/Master/.emacs.d/")
                      (server-name . "Spac-syl-main")))
  )
